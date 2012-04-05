@@ -1,0 +1,3 @@
+<?php
+
+include_once('test_feature_documents.features.inc');
